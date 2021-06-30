@@ -3,7 +3,7 @@ This is a simple covid tracker made using HTML,CSS and Javascript.
 
 The tracker uses HTML DOM reference.
 
-* The app automatically returns the corona stats of the users location using an API.
+* The app automatically returns the corona stats of the user's location using an API.
 * The location of the user is fetched using geoplugins.
 * The user can see the stats and graphs of other countries as well.
 * The app also shows the relative graph of the stats
